@@ -1,0 +1,37 @@
+1.浏览器全屏：点击最大化按钮的同时按住shift键
+2.http://s.taobao.com/search?spm=a230r.1.8.12.nbiakA&q=212405033&initiative_id=tbindexz_20121123&commend=all&ssid=s5-e&newpre=null&sort=sale-desc#rankbar
+http://item.taobao.com/item.htm?spm=a230r.1.10.10.3PGiSv&id=17827511981
+3.248Wang**
+4.使用键盘恢复最小化到Dock上的程序窗口
+我们知道Cmd + M （Cmd + opt + M）键可以方便地把窗口最小化到Dock上，可是想要把窗口恢复回来就需要用到鼠标了。其实Leopard系统提供了一组快捷键可以把最小化的窗口恢复回来，不过有个小缺点：同一程序如果有多个窗口被最小化的话，只能恢复最后一个。
+按住Cmd + Tab激活程序切换 -> 按住Cmd不放按Tab（Shift + Tab）选中程序 -> 松开Tab，按住Cmd不放的同时按住Opt（alt）-> 松开Cmd。
+
+听起来似乎很复杂，但试试就知道了一点也不难。
+
+好了，窗口回来了。
+
+5. 键+tab键才能对应alt+tab
+
+    键+N可以打开新的终端窗口 
+
+    键+W可以关闭一个窗口
+
+6. 终止终端进程：CMD + >
+
+7.我们喜欢使用快捷键 Command+tab 在不同应用程序间切换，不过我们如果打开了大量的窗口后，如何在相同应用程序的不同窗口间切换呢？
+
+技巧：快捷键 Command+~
+
+8.由于 Mac 上没有 Home 和 End 键，于是在终端里打入了很长一段命令之后发现最前面有几个字母写错了，会很麻烦很麻烦。虽然 Command ＋ 方向键不能在 Terminal 中使用，但是还是有办法可以跳到行头和行尾的。作为 Mac 中的 Terminal，BASH 有很多快捷键可以满足你的要求。下面就是一些 BASH 的快捷键。
+
+Ctrl + A 将光标跳到行头
+Ctrl + E 将光标跳到行尾
+Ctrl + L 清屏
+Ctrl + R 搜索以前执行过的命令
+Ctrl + C 终止正在运行的程序
+Ctrl + D 退出 Terminal（这里建议使用 Command ＋ W 来完成）
+Ctrl + Z 将当前程序放置于背景，可以用 fg 来恢复
+
+macvim 使用：
+1. :NERDTree
+2.
